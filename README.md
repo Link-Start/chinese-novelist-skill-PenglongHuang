@@ -32,6 +32,28 @@
 
 输入指令：`使用 chinese-novelist 帮我写一部小说`
 
+## 📢 赞助商
+
+<p align="center">
+  <a href="https://www.infistar.cc/register?aff=29SS8B9E&ref_source=link">
+    <img src="assets/infistar-banner.png" width="720" alt="Infistar.cc — 一站式全球大模型 API 服务平台"/>
+  </a>
+</p>
+
+**chinese-novelist-skill × [Infistar.cc](https://www.infistar.cc/register?aff=29SS8B9E&ref_source=link)**
+
+用这个技能包写长篇的朋友都知道：动辄几十万字的大纲回溯、多代理并行出章，额度往往比灵感先耗尽 💸。
+
+如果想放开手脚写长篇，推荐换上 Infistar：
+
+- ⚙️ **零配置接入**：无需修改代码，Claude Code / 客户端只需换上 Base URL 与 Key 即可开工。
+- 🏷️ **超低成本试错**：多模型价格极具优势。整卷重构、换文风重写、多代理并行爆肝不再肉疼。
+- 🧩 **全模型任意切**：Claude、GPT、Gemini、DeepSeek 一个 Key 全搞定，改个模型名就能对比打斗与感情戏表现。
+- 💳 **国内顺畅使用**：RMB 直接结算，全模型支持验真防掺水。
+- 🎁 **专属福利**：通过[专属通道](https://www.infistar.cc/register?aff=29SS8B9E&ref_source=link)注册即送 $5 体验额度。建议领完拿同一份大纲让两个模型各试跑 3 章，感受文笔差异 ✍️！
+
+---
+
 ## 🖼️ 使用过程
 
 <table>
@@ -243,7 +265,7 @@ chinese-novelist/
 
 ## 🔄 版本更新
 
-### v2.0 → v1.0 重大升级
+### v2.0 重大升级
 
 **核心架构重构**
 - ✅ 从单一 5 问流程升级为**三层递进式问答**（Layer 1 必答 + Layer 2 可选深度定制）
